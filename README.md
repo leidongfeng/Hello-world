@@ -1,2 +1,3 @@
 # Hello-world
-Just another repository
+
+I'am leidongfeng as a computer programmer working on machine learning.
